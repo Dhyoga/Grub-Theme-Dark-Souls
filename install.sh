@@ -1,3 +1,11 @@
+#!/bin/bash
+
+# Grub2 Theme
+##########################################################################
+# This is taken from the Tela grub theme and is therefore licensed 
+# under the GNU General Public License
+##########################################################################
+
 ROOT_UID=0
 THEME_DIR="/usr/share/grub/themes"
 THEME_NAME=Dark-Souls-III
