@@ -1,6 +1,6 @@
 # Grub Theme - Dark Souls
 
-This theme is set for a resultion of 1920x1080. You can adjust 
+This theme is set for a resultion of 1920x1080. 
 
 ## Installation
 
